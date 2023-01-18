@@ -1,0 +1,973 @@
+@media (min-width: 1400px) {
+  .navbar {
+    background-color: transparent;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 365px 0 359px;
+  }
+  .banner--nature {
+    margin-bottom: 38px;
+  }
+  .banner--discover {
+    font-size: 96px;
+  }
+  .banner--indonesia {
+    font-size: 88px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 320px;
+  }
+  .about--right {
+    margin-top: 0;
+  }
+  .about--nusa {
+    font-size: 18px;
+  }
+  .about--holiday {
+    font-size: 64px;
+    padding-right: 20px;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 32px;
+    padding-right: 44px;
+    margin-bottom: 66px;
+    text-transform: uppercase;
+  }
+  .about--btn {
+    font-size: 18px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 358px;
+  }
+  .hill--background {
+    padding: 420px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 18px;
+  }
+  .hill--holiday {
+    font-size: 64px;
+  }
+  .hill--description {
+    font-size: 15px;
+    line-height: 32px;
+  }
+  .hill--btn {
+    font-size: 18px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 295px;
+  }
+  .culture--top {
+    font-size: 16px;
+  }
+  .culture--culture {
+    font-size: 64px;
+  }
+  .culture--description {
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 47px;
+  }
+  .culture--btn a {
+    font-size: 18px;
+  }
+  .culture--content {
+    margin-bottom: 0px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 200px 0 70px;
+  }
+  .footer--top {
+    line-height: 120px;
+  }
+  .footer--logo a {
+    font-size: 48px;
+  }
+  .footer--explor a {
+    font-size: 22px;
+    margin-left: 600px;
+  }
+  .footer--btn a {
+    font-size: 17px;
+    padding: 18px 67px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .footer--btom_title {
+    font-size: 36px;
+    padding-right: 90px;
+    line-height: 50px;
+    margin-bottom: 75px;
+  }
+  .footer--mail input {
+    padding: 14px 150px 14px 15px;
+    font-size: 15px;
+  }
+  .footer--mail i {
+    font-size: 25px;
+    padding: 14px 38px;
+  }
+  .footer--btom_left {
+    margin-bottom: 100px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 50px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 20px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 18px;
+  }
+  .terrms {
+    text-align: start;
+  }
+  .terrms a {
+    font-size: 15px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 15px;
+  }
+  .footer--icon a i {
+    font-size: 20px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 0;
+  }
+  .footer--copy {
+    margin-top: 132px;
+  }
+  .footer--copy span {
+    font-size: 18px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .navbar {
+    background-color: transparent;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 365px 0 359px;
+  }
+  .banner--nature {
+    margin-bottom: 38px;
+  }
+  .banner--discover {
+    font-size: 96px;
+  }
+  .banner--indonesia {
+    font-size: 88px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 320px;
+  }
+  .about--right {
+    margin-top: 0;
+  }
+  .about--nusa {
+    font-size: 18px;
+  }
+  .about--holiday {
+    font-size: 64px;
+    padding-right: 64px;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 32px;
+    padding-right: 0;
+    margin-bottom: 66px;
+    text-transform: uppercase;
+  }
+  .about--btn {
+    font-size: 18px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 358px;
+  }
+  .hill--background {
+    padding: 420px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 18px;
+  }
+  .hill--holiday {
+    font-size: 64px;
+  }
+  .hill--description {
+    font-size: 15px;
+    line-height: 32px;
+  }
+  .hill--btn {
+    font-size: 18px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 295px;
+  }
+  .culture--top {
+    font-size: 16px;
+  }
+  .culture--culture {
+    font-size: 55px;
+  }
+  .culture--description {
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 47px;
+  }
+  .culture--btn a {
+    font-size: 18px;
+  }
+  .culture--content {
+    margin-bottom: 0px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 200px 0 70px;
+  }
+  .footer--top {
+    line-height: 120px;
+  }
+  .footer--logo a {
+    font-size: 48px;
+  }
+  .footer--explor a {
+    font-size: 22px;
+    margin-left: 500px;
+  }
+  .footer--btn a {
+    font-size: 17px;
+    padding: 18px 67px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .footer--btom_title {
+    font-size: 36px;
+    padding-right: 90px;
+    line-height: 50px;
+    margin-bottom: 75px;
+  }
+  .footer--mail input {
+    padding: 14px 150px 14px 15px;
+    font-size: 15px;
+  }
+  .footer--mail i {
+    font-size: 25px;
+    padding: 14px 38px;
+  }
+  .footer--btom_left {
+    margin-bottom: 100px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 50px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 20px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 18px;
+  }
+  .terrms {
+    text-align: start;
+  }
+  .terrms a {
+    font-size: 15px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 15px;
+  }
+  .footer--icon a i {
+    font-size: 20px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 0;
+  }
+  .footer--copy {
+    margin-top: 132px;
+  }
+  .footer--copy span {
+    font-size: 18px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .navbar {
+    background-color: transparent;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 350px 0 300px;
+  }
+  .banner--nature {
+    margin-bottom: 28px;
+  }
+  .banner--discover {
+    font-size: 96px;
+  }
+  .banner--indonesia {
+    font-size: 79px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 250px;
+  }
+  .about--right {
+    margin-top: 0;
+  }
+  .about--nusa {
+    font-size: 18px;
+  }
+  .about--holiday {
+    font-size: 60px;
+    padding-right: 2px;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 27px;
+    padding-right: 0;
+    margin-bottom: 26px;
+    text-transform: uppercase;
+  }
+  .about--btn {
+    font-size: 18px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 300px;
+  }
+  .hill--background {
+    padding: 420px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 18px;
+  }
+  .hill--holiday {
+    font-size: 64px;
+  }
+  .hill--description {
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .hill--btn {
+    font-size: 18px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 250px;
+  }
+  .culture--top {
+    font-size: 16px;
+  }
+  .culture--culture {
+    font-size: 46px;
+  }
+  .culture--description {
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 47px;
+  }
+  .culture--btn a {
+    font-size: 18px;
+  }
+  .culture--content {
+    margin-bottom: 0px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 180px 0 65px;
+  }
+  .footer--top {
+    line-height: 120px;
+  }
+  .footer--logo a {
+    font-size: 48px;
+  }
+  .footer--explor a {
+    font-size: 22px;
+    margin-left: 300px;
+  }
+  .footer--btn a {
+    font-size: 17px;
+    padding: 18px 53px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .footer--btom_title {
+    font-size: 36px;
+    padding-right: 15px;
+    line-height: 50px;
+    margin-bottom: 75px;
+  }
+  .footer--mail input {
+    padding: 14px 150px 14px 15px;
+    font-size: 15px;
+  }
+  .footer--mail i {
+    font-size: 25px;
+    padding: 14px 38px;
+  }
+  .footer--btom_left {
+    margin-bottom: 60px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 40px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 20px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 17px;
+  }
+  .terrms {
+    text-align: start;
+  }
+  .terrms a {
+    font-size: 14px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 14px;
+  }
+  .footer--icon a i {
+    font-size: 17px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 0;
+  }
+  .footer--copy {
+    margin-top: 55px;
+  }
+  .footer--copy span {
+    font-size: 16px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar {
+    background-color: rgb(34, 34, 34);
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 350px 0 300px;
+  }
+  .banner--nature {
+    margin-bottom: 28px;
+  }
+  .banner--discover {
+    font-size: 96px;
+  }
+  .banner--indonesia {
+    font-size: 71px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 100px;
+  }
+  .about--right {
+    margin-top: 0;
+  }
+  .about--nusa {
+    font-size: 16px;
+  }
+  .about--holiday {
+    font-size: 30px;
+    padding-right: 44px;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 23px;
+    padding-right: 0;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+  }
+  .about--btn {
+    font-size: 14px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 100px;
+  }
+  .hill--background {
+    padding: 420px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 18px;
+  }
+  .hill--holiday {
+    font-size: 56px;
+  }
+  .hill--description {
+    font-size: 15px;
+    line-height: 32px;
+  }
+  .hill--btn {
+    font-size: 18px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 100px;
+  }
+  .culture--top {
+    font-size: 16px;
+  }
+  .culture--culture {
+    font-size: 34px;
+  }
+  .culture--description {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 20px;
+  }
+  .culture--btn a {
+    font-size: 15px;
+  }
+  .culture--content {
+    margin-bottom: 0px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 120px 0 60px;
+  }
+  .footer--top {
+    line-height: 120px;
+  }
+  .footer--logo a {
+    font-size: 44px;
+  }
+  .footer--explor a {
+    font-size: 20px;
+    margin-left: 100px;
+  }
+  .footer--btn a {
+    font-size: 17px;
+    padding: 15px 32px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .footer--btom_title {
+    font-size: 36px;
+    padding-right: 325px;
+    line-height: 50px;
+    margin-bottom: 70px;
+  }
+  .footer--mail input {
+    padding: 14px 150px 14px 15px;
+    font-size: 15px;
+  }
+  .footer--mail i {
+    font-size: 25px;
+    padding: 14px 38px;
+  }
+  .footer--btom_left {
+    margin-bottom: 60px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 40px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 20px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 18px;
+  }
+  .terrms {
+    text-align: start;
+  }
+  .terrms a {
+    font-size: 15px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 15px;
+  }
+  .footer--icon a i {
+    font-size: 20px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 0;
+  }
+  .footer--copy {
+    margin-top: 55px;
+  }
+  .footer--copy span {
+    font-size: 18px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .navbar {
+    background-color: rgb(34, 34, 34);
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 200px 0 130px;
+  }
+  .banner--nature {
+    margin-bottom: 12px;
+  }
+  .banner--discover {
+    font-size: 96px;
+  }
+  .banner--indonesia {
+    font-size: 52px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 100px;
+  }
+  .about--right {
+    margin-top: 26px;
+  }
+  .about--nusa {
+    font-size: 18px;
+  }
+  .about--holiday {
+    font-size: 64px;
+    padding-right: 34px;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 32px;
+    padding-right: 0;
+    margin-bottom: 50px;
+  }
+  .about--btn {
+    font-size: 17px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 100px;
+  }
+  .hill--background {
+    padding: 420px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 18px;
+  }
+  .hill--holiday {
+    font-size: 42px;
+  }
+  .hill--description {
+    font-size: 15px;
+    line-height: 30px;
+  }
+  .hill--btn {
+    font-size: 17px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 100px;
+  }
+  .culture--top {
+    font-size: 18px;
+  }
+  .culture--culture {
+    font-size: 52px;
+  }
+  .culture--description {
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 40px;
+  }
+  .culture--btn a {
+    font-size: 18px;
+  }
+  .culture--content {
+    margin-bottom: 30px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 10px 0 60px;
+  }
+  .footer--top {
+    line-height: 100px;
+  }
+  .footer--logo a {
+    font-size: 40px;
+  }
+  .footer--explor a {
+    font-size: 18px;
+    margin-left: 0;
+  }
+  .footer--btn a {
+    font-size: 17px;
+    padding: 11px 22px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+  }
+  .footer--btom_title {
+    font-size: 36px;
+    padding-right: 155px;
+    line-height: 50px;
+    margin-bottom: 60px;
+  }
+  .footer--mail input {
+    padding: 14px 150px 14px 15px;
+    font-size: 15px;
+  }
+  .footer--mail i {
+    font-size: 25px;
+    padding: 14px 38px;
+  }
+  .footer--btom_left {
+    margin-bottom: 60px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 40px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 20px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 16px;
+  }
+  .terrms {
+    text-align: start;
+  }
+  .terrms a {
+    font-size: 16px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 16px;
+  }
+  .footer--icon a i {
+    font-size: 19px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 0;
+  }
+  .footer--copy {
+    margin-top: 55px;
+  }
+  .footer--copy span {
+    font-size: 17px;
+  }
+}
+@media (max-width: 575px) {
+  .navbar {
+    background-color: rgb(34, 34, 34);
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  /* Banner Responsive Part */
+  .banner {
+    padding: 150px 0 100px;
+  }
+  .banner--nature {
+    margin-bottom: 0;
+  }
+  .banner--discover {
+    font-size: 70px;
+  }
+  .banner--indonesia {
+    font-size: 30px;
+  }
+  /* Abour Responsive Part */
+  .about {
+    padding-top: 70px;
+  }
+  .about--nusa {
+    font-size: 16px;
+  }
+  .about--holiday {
+    font-size: 39px;
+    padding-right: 0;
+  }
+  .about--description {
+    font-size: 14px;
+    line-height: 26px;
+    padding-right: 0;
+    margin-bottom: 30px;
+  }
+  .about--btn {
+    font-size: 15px;
+  }
+  /* Hill Responsive Part */
+  .hill {
+    padding-top: 100px;
+  }
+  .hill--background {
+    padding: 330px 0 32px;
+  }
+  .hill--nusa {
+    font-size: 16px;
+  }
+  .hill--holiday {
+    font-size: 24px;
+  }
+  .hill--description {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .hill--btn {
+    font-size: 16px;
+  }
+  /* Culture Responsive Part */
+  .culture {
+    padding-top: 100px;
+  }
+  .culture--top {
+    font-size: 16px;
+  }
+  .culture--culture {
+    font-size: 30px;
+  }
+  .culture--description {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+  .culture--btn a {
+    font-size: 15px;
+  }
+  .culture--content {
+    margin-bottom: 30px;
+  }
+  /* Footer Responsive Part */
+  .footer {
+    padding: 10px 0 60px;
+  }
+  .footer--top {
+    line-height: 55px;
+  }
+  .footer--logo a {
+    font-size: 20px;
+  }
+  .footer--explor a {
+    font-size: 14px;
+    margin-left: 0;
+  }
+  .footer--btn a {
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+  }
+  .footer--btom_title {
+    font-size: 29px;
+    padding-right: 0;
+    line-height: 38px;
+    margin-bottom: 50px;
+  }
+  .footer--mail input {
+    padding: 10px 48px 10px 12px;
+    font-size: 14px;
+  }
+  .footer--mail i {
+    font-size: 22px;
+    padding: 10px 24px;
+  }
+  .footer--btom_left {
+    margin-bottom: 60px;
+  }
+  .footer--btom_right_menu {
+    margin-bottom: 30px;
+  }
+  .footer--btom_right ul li {
+    margin-bottom: 16px;
+  }
+  .footer--btom_right ul li a {
+    font-size: 14px;
+  }
+  .terrms {
+    text-align: center;
+  }
+  .terrms a {
+    font-size: 14px;
+  }
+  .policy {
+    text-align: center;
+  }
+  .policy a {
+    font-size: 14px;
+  }
+  .footer--icon a i {
+    font-size: 17px;
+  }
+  .footer--icon {
+    text-align: center;
+    margin-top: 22px;
+  }
+  .footer--copy {
+    margin-top: 55px;
+  }
+  .footer--copy span {
+    font-size: 15px;
+  }
+}
